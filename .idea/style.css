@@ -1,0 +1,20 @@
+body{
+    font-family: "Montserrat", serif;
+    text-align: center;
+}
+.card{
+    margin: 25px;
+}
+.header-section{
+    background-color: #df2323;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+.content-warning{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: inline-flex;
+
+}
